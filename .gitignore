@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+model.pkl
+data/results/
+*.result
+*_complexity.json
+*_probs.pkl
+experiment_summary.json
