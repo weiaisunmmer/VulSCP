@@ -43,7 +43,7 @@ python VulSCP.py --epochs 200 --batch-size 32 --runs 5 --seed-base 42 --data-pat
 Experiment results are saved under:
 
 ```powershell
-./data/results/
+cd ./data/results/
 ```
 
 The script writes per-run results together with aggregated mean and standard deviation to `experiment_summary.json`.
